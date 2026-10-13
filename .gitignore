@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Large raw datasets
+data/prescribers_2022_tx.parquet
+data/prescribers_2023_tx.parquet
+data/internal_medicine_clean.parquet
+
+# Local files
+.streamlit/secrets.toml
+.DS_Store
+# Prescriber-level datasets: exclude pending redistribution review
+data/segmented_doctors.parquet
+data/doctor_growth_2022_2023.parquet
+
+# Local backup
+app_backup.py
+data/doctor_features.parquet
