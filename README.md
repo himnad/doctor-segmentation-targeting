@@ -1,3 +1,14 @@
+## Live Demo
+
+**[Launch Prescriber Intelligence Dashboard](https://doctor-segmentation-targeting-mjt3y7jxofqevubrw6kpzy.streamlit.app/)**
+
+Explore doctor segmentation, high-spending classification,
+and year-over-year prescriber growth prediction.
+
+**Demo notice:** The deployed dashboard uses synthetic
+prescriber records. Model evaluation metrics and charts
+are based on historical CMS Medicare Part D data.
+
 \# Doctor Segmentation \& Targeting Using Machine Learning
 
 
